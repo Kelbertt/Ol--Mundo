@@ -1,7 +1,6 @@
-# Olá, Mundo!
- Primeiro Repositório no Github
+# Primeiro Repositório no GitHub!
+Material do **Curso de Git e GitHub**, disponível no youtube do *Curso em Vídeo*.
 
- Repositório criado utilizando material do Curso em Vídeo!
  
- Repositório usado também para primeiras criações de projetos em outras lingaguens de programação
+ 
  
